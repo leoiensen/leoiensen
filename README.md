@@ -1,4 +1,3 @@
-<div align="center">
   ### Hi there, I'm a software developer and technology enthusiast.
 
 <div align="center">
