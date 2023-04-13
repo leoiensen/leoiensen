@@ -1,9 +1,8 @@
 <h2 align="center"> Hi 👋, I'm a software developer and technology enthusiast.</h2>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/edson-leonardo-iensen-8bb2a3164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo" height="30" width="40" /></a>
-</p>
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-leonardo-iensen-8bb2a3164/)
 
 <div align="left">
   <a href="https://github.com/leoiensen">
