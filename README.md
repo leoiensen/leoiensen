@@ -2,7 +2,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-leonardo-iensen-8bb2a3164/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-leonardo-iensen-8bb2a3164)](https://www.linkedin.com/in/edson-leonardo-iensen-8bb2a3164/)
+
 
 <div align="left">
   <a href="https://github.com/leoiensen">
